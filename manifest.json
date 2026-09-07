@@ -1,0 +1,18 @@
+{
+    "id": "MintPillow",
+    "name": "Can You Really Call This a Content Mod, I Didn't Recieve a Mint on My Pillow or Anything",
+    "display_name": "Mint on My Pillow",
+    "author": [
+        "violetblooded"
+    ],
+    "description": "This mod contains a lot of things from a lot of unfinished/abanonded Balatro modding projects of mine, with original content sprinkled in. ",
+    "prefix": "mint",
+    "main_file": "mintonmypillow.lua",
+    "priority": 99999,
+    "version": "0.0.0~PRERELEASE",
+    "website_url": "https://undertale.wiki/w/Can_You_Really_Call_This_A_Hotel,_I_Didn%27t_Receive_A_Mint_On_My_Pillow_Or_Anything",
+    "badge_colour": "ADEBB3",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1307d)"
+    ]
+}
