@@ -1,2 +1,2 @@
-# Mint on my Pillow
-This mod contains a lot of things from a lot of unfinished/abanonded Balatro modding projects of mine, with original content sprinkled in.
+# How Can You Call this a Content Mod, I Didn't Recieve a Mint on My Pillow or Anything
+How Can You Call this a Content Mod, I Didn't Recieve a Mint on My Pillow or Anything, otherwise known as just Mint on my Pillow, is a mod that contains a lot of things from a lot of my unfinished/abanonded Balatro modding projects. Alongside that, it also has a lot of original content that ties into everything else.
