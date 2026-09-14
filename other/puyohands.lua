@@ -70,7 +70,7 @@ SMODS.PokerHandPart {
 
 
 
-puyochain = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Puyo Chain',
     visible = true,
     chips = 100,
@@ -89,7 +89,7 @@ puyochain = SMODS.PokerHand {
     end
 }
 
-puyorainbow = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Puyo Rainbow',
     visible = true,
     chips = 70,
@@ -109,7 +109,7 @@ puyorainbow = SMODS.PokerHand {
     end
 }
 
-chainhouse = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Chain House',
     visible = false,
     chips = 140,
@@ -130,7 +130,7 @@ chainhouse = SMODS.PokerHand {
     end,
 }
 
-rainbowhouse = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Rainbow House',
     visible = false,
     chips = 80,
@@ -150,7 +150,7 @@ rainbowhouse = SMODS.PokerHand {
     end,
 }
 
-chainfive = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Chain Five',
     visible = false,
     chips = 180,
@@ -171,7 +171,7 @@ chainfive = SMODS.PokerHand {
     end,
 }
 
-rainbowfive = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Rainbow Five',
     visible = false,
     chips = 100,
@@ -192,7 +192,7 @@ rainbowfive = SMODS.PokerHand {
     end,
 }
 
-straightchain = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Straight Chain',
     visible = false,
     chips = 240,
@@ -222,7 +222,7 @@ straightchain = SMODS.PokerHand {
     end
 }
 
-straightrainbow = SMODS.PokerHand {
+SMODS.PokerHand {
     key = 'Straight Rainbow',
     visible = false,
     chips = 140,

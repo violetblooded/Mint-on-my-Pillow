@@ -11,7 +11,7 @@ local function common_suits(self, args)
     return not args or not args.initial_deck
   end
 
-local puyored_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'RedPuyos',
     card_key = 'PUYORED',
     hc_atlas = 'hc_puyo',
@@ -24,7 +24,7 @@ local puyored_suit = SMODS.Suit {
     lc_colour = HEX('f80000'),
     in_pool = common_suits
 }
-local puyogre_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'GreenPuyos',
     card_key = 'PUYOGRE',
     hc_atlas = 'hc_puyo',
@@ -37,7 +37,7 @@ local puyogre_suit = SMODS.Suit {
     lc_colour = HEX('00d010'),
     in_pool = common_suits
 }
-local puyoyel_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'YellowPuyos',
     card_key = 'PUYOYEL',
     hc_atlas = 'hc_puyo',
@@ -50,7 +50,7 @@ local puyoyel_suit = SMODS.Suit {
     lc_colour = HEX('f8f800'),
     in_pool = common_suits
 }
-local puyoblu_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'BluePuyos',
     card_key = 'PUYOBLU',
     hc_atlas = 'hc_puyo',
@@ -63,7 +63,7 @@ local puyoblu_suit = SMODS.Suit {
     lc_colour = HEX('1070d0'),
     in_pool = common_suits
 }
-local puyopur_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'PurplePuyos',
     card_key = 'PUYOPUR',
     hc_atlas = 'hc_puyo',
@@ -76,7 +76,7 @@ local puyopur_suit = SMODS.Suit {
     lc_colour = HEX('5200b8'),
     in_pool = common_suits
 }
-local puyonui_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'NuisancePuyos',
     card_key = 'PUYONUI',
     hc_atlas = 'hc_puyo',
@@ -89,7 +89,7 @@ local puyonui_suit = SMODS.Suit {
     lc_colour = HEX('4b4b4b'),
     in_pool = common_suits
 }
-local puyochu_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'ChuPuyos',
     card_key = 'PUYOCHU',
     hc_atlas = 'hc_puyo',
@@ -102,7 +102,7 @@ local puyochu_suit = SMODS.Suit {
     lc_colour = HEX('f878b0'),
     in_pool = rare_suits
 }
-local puyotea_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'TealPuyos',
     card_key = 'PUYOTEA',
     hc_atlas = 'hc_puyo',
@@ -115,7 +115,7 @@ local puyotea_suit = SMODS.Suit {
     lc_colour = HEX('00c0f8'),
     in_pool = rare_suits
 }
-local puyosun_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'SunPuyos',
     card_key = 'PUYOSUN',
     hc_atlas = 'hc_puyo',
@@ -128,7 +128,7 @@ local puyosun_suit = SMODS.Suit {
     lc_colour = HEX('e03000'),
     in_pool = rare_suits
 }
-local puyoiron_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'IronPuyos',
     card_key = 'PUYOIRON',
     hc_atlas = 'hc_puyo',
@@ -141,7 +141,7 @@ local puyoiron_suit = SMODS.Suit {
     lc_colour = HEX('000000'),
     in_pool = rare_suits
 }
-local puyobig_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'BigPuyos',
     card_key = 'PUYOBIG',
     hc_atlas = 'hc_puyo',
@@ -154,7 +154,7 @@ local puyobig_suit = SMODS.Suit {
     lc_colour = HEX('58c000'),
     in_pool = rare_suits
 }
-local puyobomb_suit = SMODS.Suit {
+SMODS.Suit {
     key = 'BombPuyos',
     card_key = 'PUYOBOMB',
     hc_atlas = 'hc_puyo',
